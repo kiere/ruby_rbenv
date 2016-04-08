@@ -20,8 +20,8 @@
 #
 
 # git repository containing rbenv
-default['rbenv']['git_url'] = 'git://github.com/sstephenson/rbenv.git'
-default['rbenv']['git_ref'] = 'v0.4.0'
+default['rbenv']['git_url'] = 'git://github.com/rbenv/rbenv.git'
+default['rbenv']['git_ref'] = 'v1.0.0'
 
 # upgrade action strategy
 default['rbenv']['upgrade'] = 'none'
